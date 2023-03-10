@@ -1,31 +1,8 @@
 # Clipboard Landing Page
 
-Clipboard Landing Page using Tailwindcss from [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9)
+This is a solution to the [Clipboard Landing Page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9). 
 
-## Usage
+- Built with [Tailwind CSS](https://tailwindcss.com/)
+- Features a responsive design, interactive slider, and downloadable SVG image
 
-Install dependencies
-
-```
-npm install
-```
-
-Run Tailwind CLI in watch mode
-
-```
-npm run dev
-```
-
-You can use tailwind classes in any .html files in the root directory
-
-Put any custom CSS that you may have in the **src/input.css** file
-
-Add any config values to the **tailwind.config.js** file
-
-To build once, run
-
-```
-npm run build
-```
-
-You only need to deploy your html files and css/style.css
+Live site: https://clipboardlandingpage.pages.dev/
